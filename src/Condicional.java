@@ -11,7 +11,7 @@ public class Condicional {
             System.out.println("Vale a pena ver de novo!");
         }
 
-        if (incluidoNoPlano == true || tipoPlano.equals("plus")) {
+        if (incluidoNoPlano || tipoPlano.equals("plus")) {
             System.out.println("Liberado");
         } else {
             System.out.println("Efetue o seu pagamento");
