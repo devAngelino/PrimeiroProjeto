@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0867d65-492f-4472-a693-580be24b7644" name="Changes" comment="SwitchCase">
-      <change afterPath="$PROJECT_DIR$/src/LeituraDeDados.java" afterDir="false" />
+    <list default="true" id="c0867d65-492f-4472-a693-580be24b7644" name="Changes" comment="LeituraDeDados">
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
   "keyToString": {
     "Application.Condicional.executor": "Run",
     "Application.LeituraDeDados.executor": "Run",
+    "Application.Loop.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Perfil.executor": "Run",
     "Application.SwitchCase.executor": "Run",
@@ -107,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712499234254</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="LeituraDeDados">
+      <option name="closed" value="true" />
+      <created>1712504013028</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712504013028</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Condicionais" />
     <MESSAGE value="SwitchCase" />
-    <option name="LAST_COMMIT_MESSAGE" value="SwitchCase" />
+    <MESSAGE value="LeituraDeDados" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeituraDeDados" />
   </component>
 </project>
